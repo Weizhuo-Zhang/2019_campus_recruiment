@@ -8,6 +8,9 @@
 - [ ] 网络编程
 - [ ] MySQL、Redis，调优开发
 
+## 收藏职位
+[TX 智慧零售工程研发实习生](https://www.shixiseng.com/intern/inn_fdudciddt1ba?mxa=asdd.xep8eq._.$1)
+
 ## 补录时间
 | 公司 | 补录时间 |
 |-----|---------|
